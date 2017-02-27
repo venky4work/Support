@@ -1,0 +1,62 @@
+/*
+ * Disney - Administration -commonstyle
+ * Author - Rohita
+ */
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background-color: rgba(129, 162, 234, 0.29);
+	}
+
+.hero-spacer {
+    margin-top: 40px;
+	min-height: 275px;
+}
+
+.hero-feature {
+    margin-bottom: 30px;
+}
+
+footer {
+    margin: 50px 0;
+    background-color: #2f87e2;
+    border-radius: 6px;
+    color: #fff;
+    text-align: right;
+}
+
+.navbar-inverse{
+	 background-image: url("../images/bgs/header_bg_left.png") !important;
+}
+
+.pad-top25{
+	    padding-top: 25px;
+}
+
+.bodycontainer{
+	background-color: #fff;
+    margin-top: 60px;
+    border-radius: 5px;
+    padding: 10px
+}
+
+.tab-active{
+	background: #b7cee2;
+    color: #000 !important;
+    border-radius: 10px;
+}
+.footer-text{
+	padding: 3px 140px;
+}
+.btn-group-justified>.btn-group .btn {
+    width: 90%;
+}
+.mar-top-30{
+	margin-top:10px;
+}
+.vertical-align{
+	vertical-align: top;
+}
+.display-btn{
+	float: right;
+    margin-right: 125px;
+}
